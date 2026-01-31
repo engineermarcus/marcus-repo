@@ -1,0 +1,6 @@
+Package: neiman
+Version: 1.0.1
+Architecture: aarch64
+Maintainer: Neiman Marcus <engineermrcus@gmail.com>
+Depends: nodejs, ffmpeg, python3
+Description: Media downloader with web interface

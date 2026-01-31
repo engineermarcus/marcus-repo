@@ -1,0 +1,17 @@
+#!/data/data/com.termux/files/usr/bin/sh
+
+echo "Installing system dependencies..."
+pkg install -y pango cairo libpng libjpeg-turbo giflib pkg-config python3
+
+echo "Installing yt-dlp..."
+pip install --break-system-packages --upgrade yt-dlp
+
+echo "Installing Deno (optional)..."
+pkg install -y deno || echo "Deno installation failed, continuing..."
+
+echo "Installing Node.js dependencies..."
+cd /data/data/com.termux/files/usr/share/neiman
+npm install --production
+
+echo "Neiman installation complete!"
+echo "Run with: neiman run app"

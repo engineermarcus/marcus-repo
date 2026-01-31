@@ -1,12 +1,12 @@
 Package: neiman
-Version: 1.0.0
+Version: 1.0.1
 Architecture: aarch64
-Maintainer: Neiman Marcus  engineermrcus@gmail.com
-Depends: nodejs, ffmpeg
+Maintainer: Neiman Marcus <engineermrcus@gmail.com>
+Depends: nodejs, ffmpeg, python3
 Filename: pool/main/neiman.deb
-Size: 47168
-MD5sum: 043531fdefe7e4d09391b6395711e885
-SHA1: b1299b4676076cd1459462ca45088ee861540f1a
-SHA256: 2c914100cdd0b01a8551c190c149ac943bd905874acf9845cf42d04a1e5ca745
+Size: 14484
+MD5sum: 5de52b58cf0bc3f7d7a138477c526d1b
+SHA1: 94644fd5150133b8fc99ee21fc9ac37c8819e295
+SHA256: d8b6453cd57d95711c7c8387da36ae70b88f13e29f6e2b86334c5379d96ed63e
 Description: Media downloader with web interface
 
