@@ -1,24 +1,17 @@
-Architectures: aarch64
-Codename: termux
-Components: main
-Date: Sat, 31 Jan 2026 20:17:20 +0000
-Description: Marcus Linux Termux repository
-Label: Marcus Linux
-Origin: Marcus Linux Repository
-Suite: termux
+Date: Sat, 31 Jan 2026 21:11:49 +0000
 MD5Sum:
- a2d658ab94c5e350dcd28a34bedad860              205 Release
- aaec5126bcf51976b751abf3c1ed5a96              382 main/binary-aarch64/Packages
- c83fa94a1122e68c1f3ca751a8cf8800              311 main/binary-aarch64/Packages.gz
+ 7ef2ade2104204cdd914b00d56968ad5               38 Release
+ 45fea39b1ef2d7cdf225021c05769c61              382 main/binary-aarch64/Packages
+ 3d5aecb7647406fe691260f0e5a958f0              304 main/binary-aarch64/Packages.gz
 SHA1:
- 3b0b36aac0e7fd3dca6a3e5d108468b798b34a23              205 Release
- 854269365716cec7acd570ecc96184b9b09a975e              382 main/binary-aarch64/Packages
- 898e04f0260c9442b950e525619dd9a0e557b92b              311 main/binary-aarch64/Packages.gz
+ bbaba21f9974754b832127f7949939e5f061ee0c               38 Release
+ 356cb156329ec1893bdd81223a868fe8025c6b88              382 main/binary-aarch64/Packages
+ a81ebdf10ce4945dcb1d012c87de0554ad5a7248              304 main/binary-aarch64/Packages.gz
 SHA256:
- 25d4bfd87cbe970350f28a79eb5e05b8a80e0cb0c9be6d76fff40dc04e94abe7              205 Release
- 754a1b28c46ce585902753fc2ef49c91fe233104e235aa4c0db681176fa33622              382 main/binary-aarch64/Packages
- 80722114d4599e051200a4a8f58d4be694fe4bd512f993f0c3981d9f4a4bc01e              311 main/binary-aarch64/Packages.gz
+ af3ac8325f1e3352bb6b67aea5455eb7d05ded572001d757331c2d688d143aa5               38 Release
+ aef1f0121eda5195e6e4027a10f793a672afa0586c23295c2abe9ed3c66633e1              382 main/binary-aarch64/Packages
+ 796ec72ef6ff89fede5ffd5e61f47ef0ae8cd8a0a816b8051ee99ebc7c8636e4              304 main/binary-aarch64/Packages.gz
 SHA512:
- 1a98a28f427f53bd4bf58a9a5770e158f9ce07a8b66255dcff3df63c766a9f02fb4fdb43a436fa66d38a9f64e030f346872f2f9d9b74dcaeefd327201da9e27f              205 Release
- aaaa16d098e49ba9d8a519e6e97dc53cc3eb61bf869ab6c46dd09c07c1cf8e07cbb329ac2365e608eb320756c7bbb1758174a042342f5c78fe98a8208e74fe8a              382 main/binary-aarch64/Packages
- 0b750cf90595513a5c4a0403ce15a08ec74c648dc335ab331d5655b6032c45b274383e3aaf7b3a6ae2ba343a3a0e768bac9d5410384321def5b194414da70239              311 main/binary-aarch64/Packages.gz
+ 4e6d533ccb295c74f185aaa95b5c957e51fcecce8ffa56fc65ca2ca2cde11b00d41da9266f1b6d92d6a2c7b084ae0b44ebf1293a94ca66ca0468b500eda2ce91               38 Release
+ 00ee0690e9f6411fc7ed67968386a06f0500a33e0042ec9220ac7fc05bd3ec12a5840fc951f06e912d1bc27c08bb1a10c7371411cf3fe57f6d00ef1370d022eb              382 main/binary-aarch64/Packages
+ ff826b421af555a6cfa97b3a449ef963315fae4c840ebc93bead5eca6a56a3de15b74d9fbaf5df0c035d606158adf86f7e3944149f4f219aa9427ca660896610              304 main/binary-aarch64/Packages.gz

@@ -4,9 +4,9 @@ Architecture: aarch64
 Maintainer: Neiman Marcus  engineermrcus@gmail.com
 Depends: nodejs, ffmpeg
 Filename: pool/main/neiman.deb
-Size: 47312
-MD5sum: 7965e431c083d365a83218d9696c81ca
-SHA1: 885392017a483dad26c26784ac5b90add9455e7e
-SHA256: c06217e45b541108406e57af25b370b9f2610a4e5b63ab688625990899bc5430
+Size: 47168
+MD5sum: 043531fdefe7e4d09391b6395711e885
+SHA1: b1299b4676076cd1459462ca45088ee861540f1a
+SHA256: 2c914100cdd0b01a8551c190c149ac943bd905874acf9845cf42d04a1e5ca745
 Description: Media downloader with web interface
 
