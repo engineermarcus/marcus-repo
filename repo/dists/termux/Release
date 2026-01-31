@@ -1,24 +1,24 @@
 Architectures: aarch64
 Codename: termux
 Components: main
-Date: Sat, 31 Jan 2026 19:44:23 +0000
+Date: Sat, 31 Jan 2026 20:17:20 +0000
 Description: Marcus Linux Termux repository
 Label: Marcus Linux
 Origin: Marcus Linux Repository
 Suite: termux
 MD5Sum:
- 263a3a882c9503b33321a4b46b2784cf              205 Release
+ a2d658ab94c5e350dcd28a34bedad860              205 Release
  aaec5126bcf51976b751abf3c1ed5a96              382 main/binary-aarch64/Packages
- e81e99485a4f374d0cdc492cafa4c390              311 main/binary-aarch64/Packages.gz
+ c83fa94a1122e68c1f3ca751a8cf8800              311 main/binary-aarch64/Packages.gz
 SHA1:
- 6d5a4630071195555658f64b717fdae7e1b6f91a              205 Release
+ 3b0b36aac0e7fd3dca6a3e5d108468b798b34a23              205 Release
  854269365716cec7acd570ecc96184b9b09a975e              382 main/binary-aarch64/Packages
- 608a1b9340a4bd8ee4c0026373f8c3079e9b79ef              311 main/binary-aarch64/Packages.gz
+ 898e04f0260c9442b950e525619dd9a0e557b92b              311 main/binary-aarch64/Packages.gz
 SHA256:
- 66adcbea8449a371c0015b9b2c3f4b219ed01f1545489d37550e70633c25cdd2              205 Release
+ 25d4bfd87cbe970350f28a79eb5e05b8a80e0cb0c9be6d76fff40dc04e94abe7              205 Release
  754a1b28c46ce585902753fc2ef49c91fe233104e235aa4c0db681176fa33622              382 main/binary-aarch64/Packages
- c86eb5fc52b43ee82c54e6909acab7ecb6dc5b80d61bc9985b144faceabdaa23              311 main/binary-aarch64/Packages.gz
+ 80722114d4599e051200a4a8f58d4be694fe4bd512f993f0c3981d9f4a4bc01e              311 main/binary-aarch64/Packages.gz
 SHA512:
- 0dcdd3533f6a278eeed331d13de95cd4ec77c54b8702a7d6d4fd39519866c0b4ac3f2779b57f9b1e210d45f98edc7511ea45d1e57ae7916afeb73ee054c4fdfd              205 Release
+ 1a98a28f427f53bd4bf58a9a5770e158f9ce07a8b66255dcff3df63c766a9f02fb4fdb43a436fa66d38a9f64e030f346872f2f9d9b74dcaeefd327201da9e27f              205 Release
  aaaa16d098e49ba9d8a519e6e97dc53cc3eb61bf869ab6c46dd09c07c1cf8e07cbb329ac2365e608eb320756c7bbb1758174a042342f5c78fe98a8208e74fe8a              382 main/binary-aarch64/Packages
- 29825ee5f38dcb0b9cca8ebca4aa1dde1ecb4f99d858d85810226ec2990a5cd33c6d27080cf34a53a870ae2ba007d572a642644321a5bc25797b561ed36868f9              311 main/binary-aarch64/Packages.gz
+ 0b750cf90595513a5c4a0403ce15a08ec74c648dc335ab331d5655b6032c45b274383e3aaf7b3a6ae2ba343a3a0e768bac9d5410384321def5b194414da70239              311 main/binary-aarch64/Packages.gz
